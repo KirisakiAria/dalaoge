@@ -19,7 +19,7 @@
             ts.trigger('fx1')
             setTimeout(() => {
                 socialComponentVisible.value = true
-            }, 3000)
+            }, 3500)
         })
     })
 </script>
@@ -115,6 +115,7 @@
                 opacity: 0;
             }
 
+            h1,
             .about,
             .lfj {
                 cursor: pointer;
