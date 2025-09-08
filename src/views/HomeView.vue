@@ -29,13 +29,16 @@
         <div class="content" :class="{ transparent: !loaded }">
             <h1 @click="ts.trigger('fx2')">Coding Since 2016</h1>
             <p class="about" @click="ts.trigger('fx6')">
-                I am a full stack engineer. I have more than 8 years of front-end experience, 5 years of full-stack experience and 4 years of project
-                team management experience (5-10 people team). I am proficient in node.js, mongodb, proficient in front-end framework vue. I also make
-                good use of electron and nw.js to develop win desktop applications. I am proficient in three.js and cornerstone. I have used flutter
-                to develop the app《彼岸自在》 , which has been on multiple app markets and has reached a maximum of 13,000+ registered users. This
-                project has been open sourced and can be viewed from my github. I have more than 3 years of development experience in crypto. Skilled
-                in using web3.js and ethers.js. Independently developed meme projects such as x42 (front-end backend, smart contracts). Developed
-                friend.tech's comprehensive telegram bot (core functionality is anti-sniping)
+                Full-stack engineer with nine years of experience. Representative work: https://abslysis.xyz.
+                <br />
+                I developed the Flutter app 《彼岸自在》, which was released on multiple app stores and has over 13,000 registered users. The project
+                is open-source and available on my GitHub. I also developed a comprehensive Telegram bot for friend.tech (core feature: an
+                anti-sniping mechanism).
+                <br />
+                Over three years of experience in cryptocurrency development, proficient with libraries such as ethers.js and web3.js, and skilled at
+                building various crypto-related scripts and tools.
+                <br />
+                If you’re interested in collaborating, please contact me.
             </p>
             <p class="lfj" @click="ts.trigger('fx3')">If you guys need front-end/full-stack engineers (remote), please contact me!</p>
             <p class="email">Email: dalaoge@outlook.com</p>
